@@ -5,3 +5,5 @@ As a beginner data analyst, I am eager to showcase my skills in transforming dat
 From exploratory data analysis to interactive dashboards, I aim to showcase the power of data visualisation in driving business decisions. 
 
 Browse through my portfolio to get a taste of my work and feel free to reach out if you have any questions or comments.
+
+You will find a selection of Tableau Dashboards on [Aaron's Tableau Profile](https://public.tableau.com/app/profile/aaronn)
