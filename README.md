@@ -8,4 +8,4 @@ Browse through my portfolio to get a taste of my work and feel free to reach out
 
 You will find a selection of Tableau Dashboards on [Aaron's Tableau Profile](https://public.tableau.com/app/profile/aaronn)
 
-Recently I have been learning reporting in Power BI. I will be adding more Dashboards in sue course. Find them in my <a href="[http://example.com/](https://github.com/utilis-notitia/PowerBI_Reports)" target="_blank">Power BI Reports Repository</a>
+Recently I have been learning reporting in Power BI. I will be adding more Dashboards in sue course. Find them in my <a href="https://github.com/utilis-notitia/PowerBI_Reports" target="_blank">Power BI Report Repository</a>
