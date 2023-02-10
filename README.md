@@ -7,3 +7,5 @@ From exploratory data analysis to interactive dashboards, I aim to showcase the 
 Browse through my portfolio to get a taste of my work and feel free to reach out if you have any questions or comments.
 
 You will find a selection of Tableau Dashboards on [Aaron's Tableau Profile](https://public.tableau.com/app/profile/aaronn)
+
+Recently I have been learning reporting in Power BI. I will be adding more Dashboards in sue course. Find them on [Power BI Reports](https://github.com/utilis-notitia/PowerBI_Reports)
